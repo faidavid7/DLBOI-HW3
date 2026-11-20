@@ -1,0 +1,13 @@
+chest_xray/
+cache/
+ckpt/
+LOOP_STATE.md
+HW3-1.pdf
+HW3.ipynb
+__pycache__/
+.ipynb_checkpoints/
+report/*.aux
+report/*.log
+report/*.out
+*.log
+report/hw3.pdf
